@@ -231,7 +231,7 @@ class HomePage extends StatelessWidget {
                       ),
                       const SizedBox(height: 10),
                       Text(
-                        "A UI/UX Designer, Mobile and Web Developer based in [Your Location]",
+                        "A UI/UX Designer, Mobile and Web Developer based in Lagos",
                         key: const Key('aboutSubtitle'),
                         textAlign: TextAlign.center,
                         style: Theme.of(context).textTheme.bodyMedium,
